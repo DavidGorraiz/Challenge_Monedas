@@ -23,6 +23,8 @@ public class CuadroDialogoOpciones {
 								"De Euro a Pesos",
 								"De LIbras a Pesos"},
 						"Selecciona")).toString();
+		
+		System.out.println(moneda);
 	}
 }
 
